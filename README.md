@@ -1,2 +1,4 @@
 # desafio-01-dio
-aprendizado git/github
+Repositório para atividades aprendizado git/github
+
+##Links
